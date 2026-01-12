@@ -1,0 +1,17 @@
+# Logs
+logs/
+*.log
+
+# VM disk files
+*.qcow2
+*.vdi
+*.vmdk
+
+# Secrets
+*.key
+*.pem
+*.env
+
+# macOS junk
+.DS_Store
+
