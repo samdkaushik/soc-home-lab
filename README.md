@@ -14,7 +14,25 @@ The goal of this project is to develop a strong understanding of Linux systems, 
 - Simulate security-relevant events safely
 - Document system behavior and detections like a real engineer
 
----
+## Project Progress
+
+### Day 1 – Environment Setup
+- Created GitHub repository
+- Defined SOC lab architecture and goals
+- Set up Ubuntu Server VM using UTM on macOS
+
+### Day 2 – OS Installation & Networking
+- Installed Ubuntu Server 24.04 LTS
+- Configured network interface and DHCP
+- Created administrative user with sudo privileges
+- Enabled OpenSSH
+
+### Day 3 – Security Baseline
+- Enabled and configured UFW firewall
+- Verified SSH access
+- Reviewed authentication and sudo logs
+- Observed failed and successful login events
+- Documented security baseline and audit logs---
 
 ## Lab Architecture
 - **Host:** macOS
